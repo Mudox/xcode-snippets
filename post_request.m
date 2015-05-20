@@ -1,6 +1,7 @@
 // post request
 // set post request method, content-type & httpbody
 //
+// IDECodeSnippetCompletionPrefix: postreq
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 950982E0-1798-4CEC-842F-338EC43B8F9D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
