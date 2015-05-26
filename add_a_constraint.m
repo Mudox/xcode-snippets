@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 2EEA55BA-257A-4121-B5EA-1325131B5E02
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
   [<#view#> addConstraint:
    [NSLayoutConstraint
     constraintWithItem:<#(id)#>
