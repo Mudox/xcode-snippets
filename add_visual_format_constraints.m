@@ -6,7 +6,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-  [ addConstraints:
+ [<#view# addConstraints:
    [NSLayoutConstraint
     constraintsWithVisualFormat:<#Vistual Format String#>
                         options:<#(NSLayoutFormatOptions)#>
